@@ -1,2 +1,5 @@
 # Microsoft-Ignite-Azure-Challenge
-Repository cloned from https://github.com/MicrosoftDocs/ml-basics to complete the exercises from Microsoft's Ignite Azure Data Science Challenge
+
+<p align="center">
+  <img src="https://github.com/Gttz/Microsoft-Ignite-Azure-Challenge/blob/main/Knowledge%20check/challenge.PNG" >
+</p>
